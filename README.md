@@ -10,7 +10,7 @@ Comprehensive employee data analysis, exploring team distribution, salary expend
    2.1
     Determine the distribution of employees across each team and calculate the percentage split relative to the total number of employees.
     Found that the distribution of workers by percentage is more or less the same.
-
+    ![Image](https://github.com/user-attachments/assets/b79f5e7b-8207-434f-89b9-78081ac80d5a)
    2.2
     Segregate employees based on their positions within the company.
     The position 'SG' holds the highest power within the company followed by 'PF'.
