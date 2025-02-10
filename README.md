@@ -31,12 +31,17 @@ Comprehensive employee data analysis, exploring team distribution, salary expend
     ![Image](https://github.com/user-attachments/assets/b599d840-b51e-4afa-bab2-f532b4145027)
 4. Visualising
    3.1
-    ![Image](https://github.com/user-attachments/assets/3eabccc5-8a61-425d-baaf-968a5e645414)
+    ![Image](https://github.com/user-attachments/assets/69343c72-dbde-4cc0-a4a0-d2400cab6865)
+    
    3.2
-    ![Image](https://github.com/user-attachments/assets/5b6dda3d-184d-4bb3-9ea0-90e2dec0cf0b)
+    ![Image](https://github.com/user-attachments/assets/3eabccc5-8a61-425d-baaf-968a5e645414)
+    
    3.3
-    ![Image](https://github.com/user-attachments/assets/ba4e242b-54de-47a4-a130-2172e4fb0495)
+    ![Image](https://github.com/user-attachments/assets/5b6dda3d-184d-4bb3-9ea0-90e2dec0cf0b)
+    
    3.4
+    ![Image](https://github.com/user-attachments/assets/ba4e242b-54de-47a4-a130-2172e4fb0495)
+    
+   3.5
     ![Image](https://github.com/user-attachments/assets/1bb4acd7-aa26-438b-8646-4de91c29f6cb)
-   3.5 
  
