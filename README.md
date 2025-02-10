@@ -50,4 +50,8 @@ Comprehensive employee data analysis, exploring team distribution, salary expend
     The scatterplot illustrates the correlation between age and salary of employees.
     ![Image](https://github.com/user-attachments/assets/3eabccc5-8a61-425d-baaf-968a5e645414)
     
- 
+ 5. Conclusion
+    The main findings of this analysis are:
+     The age group of '26-30' holds the highest percentage of the companies.
+     The position 'SG' holds the highest power in the organisation.
+     With age, the salary also increases.
